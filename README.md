@@ -1,17 +1,6 @@
 # 👋 Hey there! I'm @oyaro-tech
 
-<div style="width: 100%; height: 150px; overflow: hidden;">
-  <img
-    src="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/refs/heads/main/main/assets/github-header.jpg"
-    alt="Cool Banner"
-    style="
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center;
-    "
-  >
-</div>
+<img src="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/refs/heads/main/main/assets/github-header.jpg" alt="Cool Banner" style="width: 100%; height: 150px; object-fit: cover; object-position: center;">
 
 I'm a passionate developer exploring the intersections of efficient backend systems, streamlined development pipelines, and the tangible world of hardware. I love building things that work, whether it's clean Go code, automated infrastructure, or a blinking LED controlled by an MCU!
 
