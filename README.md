@@ -1,8 +1,90 @@
-- 👋 Hi, I’m @oyaro-tech
-- 👀 I’m interested in Golang, DevOps and microcontrollers (Arduino, STM32, etc.)
-- 💞️ I’m looking to collaborate on some interesting project with any technology
+# 👋 Hey there! I'm @oyaro-tech
 
-<!---
-oyaro-tech/oyaro-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/main/assets/github-header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/main/assets/github-header-light.png">
+  <img alt="A cool banner image related to coding, circuits, or clouds." src="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/main/assets/github-header-light.png">
+</picture>
+
+I'm a passionate developer exploring the intersections of efficient backend systems, streamlined development pipelines, and the tangible world of hardware. I love building things that work, whether it's clean Go code, automated infrastructure, or a blinking LED controlled by an MCU!
+
+---
+
+### 🚀 What I'm Excited About:
+
+* **Go (Golang):** Building performant, concurrent, and scalable applications. Love its simplicity and power for backend & CLI tools.
+    ```go
+    package main
+    import "fmt"
+    func main() {
+        fmt.Println("Hello, Go World!")
+    }
+    ```
+* **DevOps & Cloud:** Automating everything! CI/CD pipelines, Infrastructure as Code (IaC), containerization (Docker, Kubernetes), and working with cloud platforms. Aiming for robust, repeatable, and observable systems.
+* **Microcontrollers & IoT:** Diving into the world of embedded systems with Arduino, STM32, ESP32, etc. Bringing ideas to life with C/C++, PlatformIO, and interfacing with sensors and actuators.
+
+---
+
+### 🌱 Currently Exploring:
+
+* Deeper dives into Kubernetes orchestration.
+* Advanced concurrency patterns in Go.
+* Low-power communication protocols for IoT (like LoRaWAN or MQTT).
+* [Maybe add another specific thing you are learning/doing?]
+
+---
+
+### 💞️ Let's Collaborate!
+
+I'm always open to collaborating on interesting projects, especially if they involve:
+
+* Developing backend services or APIs in **Go**.
+* Implementing **DevOps** practices or building CI/CD pipelines.
+* Creating cool **hardware/IoT** projects.
+* Learning new technologies together!
+
+If you have an idea, want to discuss tech, or just say hi, feel free to reach out!
+
+---
+
+### 🛠️ My Tech Stack & Tools (Continuously Growing!):
+
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/12679397?s=200&v=4" alt="platformio" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oyaro-tech&show_icons=true&theme=radical" alt="oyaro-tech's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyaro-tech&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 How to Reach Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyaro-tech)
+
+---
+
+<p align="center"> Happy Hacking & Tinkering! </p>
