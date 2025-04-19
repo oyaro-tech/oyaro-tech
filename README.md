@@ -1,9 +1,7 @@
 # 👋 Hey there! I'm @oyaro-tech
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/main/assets/github-header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/main/assets/github-header-light.png">
-  <img alt="A cool banner image related to coding, circuits, or clouds." src="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/main/assets/github-header-light.png">
+  <img alt="banner" src="https://raw.githubusercontent.com/oyaro-tech/oyaro-tech/main/assets/github-header.jpg">
 </picture>
 
 I'm a passionate developer exploring the intersections of efficient backend systems, streamlined development pipelines, and the tangible world of hardware. I love building things that work, whether it's clean Go code, automated infrastructure, or a blinking LED controlled by an MCU!
@@ -15,9 +13,9 @@ I'm a passionate developer exploring the intersections of efficient backend syst
 * **Go (Golang):** Building performant, concurrent, and scalable applications. Love its simplicity and power for backend & CLI tools.
     ```go
     package main
-    import "fmt"
+
     func main() {
-        fmt.Println("Hello, Go World!")
+        println("Hello, Go World!")
     }
     ```
 * **DevOps & Cloud:** Automating everything! CI/CD pipelines, Infrastructure as Code (IaC), containerization (Docker, Kubernetes), and working with cloud platforms. Aiming for robust, repeatable, and observable systems.
