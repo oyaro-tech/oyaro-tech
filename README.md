@@ -15,9 +15,8 @@ I'm just a nerd guy who loves all things tech and near it.
 
 ### 🚀 What I'm Excited About:
 
-* **C:** Some low level staff with a `bit` of magic.
-* **ZIG:** The Zignition for your project.
 * **Go:** Make some fun with networking.
+* **C:** Some low level staff with a `bit` of magic.
 * **DevOps & Clouds:** Automating everything! CI/CD pipelines, Infrastructure as Code (IaC), containerization (Docker, Kubernetes), and working with cloud platforms. This is my bread and butter.
 * **Microcontrollers & IoT:** Building anything which just a paper clip and a mothermoard.
 * **FreeCAD & 3D Printing:** If you can dream it, you can create it!
